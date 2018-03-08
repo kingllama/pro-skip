@@ -1,6 +1,8 @@
 # Pro Skip
 A simple curling game.
 
+[Try it here](https://kingllama.github.io/pro-skip/)
+
 Built to see if I could create a working game engine. The result is a very nice canvas engine with a small curling game built on top of it.
 
 The intent was to create a curling game that was focused on the Skip's perspective.
